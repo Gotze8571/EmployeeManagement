@@ -52,7 +52,6 @@ namespace EmployeeManagementCleanArchitecture
             {
                 app.UseDeveloperExceptionPage();
                 //app.UseHttpsRedirection();
-
             }
             //else
             //{
