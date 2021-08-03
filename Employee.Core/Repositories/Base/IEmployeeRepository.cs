@@ -10,5 +10,6 @@ namespace Employee.Core.Repositories.Base
     {
         // custom operations here
         Task<IEnumerable<Employee.Core.Entities.Employee>> GetEmployeesByLastName(string lastname);
+        
     }
 }

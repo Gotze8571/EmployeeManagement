@@ -29,7 +29,7 @@ namespace Employee.Infrastructure.Repositories.Base
             await _employeeContext.SaveChangesAsync();
         }
 
-        public async Task<IReadOnlyList<T>> GetAllasync()
+        public async Task<IReadOnlyList<T>> GetAllAsync()
         {
             return await _employeeContext.Set<T>().ToListAsync();
         }
