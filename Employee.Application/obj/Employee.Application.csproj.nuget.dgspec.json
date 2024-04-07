@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj": {}
+    "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj": {
+    "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj",
         "projectName": "Employee.Application",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Application\\obj\\",
+        "projectPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Application\\Employee.Application.csproj",
+        "packagesPath": "C:\\Users\\Tellaaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tellaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj"
+              "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj": {
+                "projectPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj"
               },
-              "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj"
+              "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj"
               }
             }
           }
@@ -79,24 +80,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj": {
+    "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj",
         "projectName": "Employee.Core",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\obj\\",
+        "projectPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj",
+        "packagesPath": "C:\\Users\\Tellaaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tellaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,6 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -137,24 +139,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
+    "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
         "projectName": "Employee.Infrastructure",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Tellaaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tellaaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -163,14 +165,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj"
+              "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj": {
+                "projectPath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj"
               }
             }
           }
@@ -215,7 +218,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

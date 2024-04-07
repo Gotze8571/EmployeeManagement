@@ -15,3 +15,20 @@ C:\Users\DELL\source\repos\EmployeeManagement\Employee.Application\obj\Debug\net
 C:\Users\DELL\source\repos\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.dll
 C:\Users\DELL\source\repos\EmployeeManagement\Employee.Application\obj\Debug\net5.0\ref\Employee.Application.dll
 C:\Users\DELL\source\repos\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Application.deps.json
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Application.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\ref\Employee.Application.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Application.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Core.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Infrastructure.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Core.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\bin\Debug\net5.0\Employee.Infrastructure.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.AssemblyReference.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.AssemblyInfoInputs.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.AssemblyInfo.cs
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.csproj.CopyComplete
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\ref\Employee.Application.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Application\obj\Debug\net5.0\Employee.Application.pdb

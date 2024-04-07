@@ -16,3 +16,21 @@ C:\Users\DELL\source\repos\EmployeeManagement\Employee.Infrastructure\obj\Debug\
 C:\Users\DELL\source\repos\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\ref\Employee.Infrastructure.dll
 C:\Users\DELL\source\repos\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.pdb
 C:\Users\DELL\source\repos\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.genruntimeconfig.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.deps.json
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.runtimeconfig.json
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.runtimeconfig.dev.json
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\ref\Employee.Infrastructure.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Infrastructure.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Core.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\bin\Debug\net5.0\Employee.Core.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.AssemblyInfo.cs
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.csproj.CopyComplete
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\ref\Employee.Infrastructure.dll
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.pdb
+C:\Users\Tellaaa\Documents\Projects\Clean Architecture\EmployeeManagement\Employee.Infrastructure\obj\Debug\net5.0\Employee.Infrastructure.genruntimeconfig.cache

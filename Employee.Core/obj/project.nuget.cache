@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bChCnFul9XR3QipKPUdQXh4b/W2ljXQP/I8cYktauc+fUEsi0QAxbvyqtghSYDvIMxKl8XIdtbyTuQPWXSL2UQ==",
+  "dgSpecHash": "88LSg5NTUacs0Lv4KpbjGDLrBlcrVNKlT2lI6LbJlRhsIJSdxaUyFkV/qzCpseaUwYxfUdCNWkM1T7Nct7dftQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj",
+  "projectFilePath": "C:\\Users\\Tellaaa\\Documents\\Projects\\Clean Architecture\\EmployeeManagement\\Employee.Core\\Employee.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
